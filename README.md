@@ -2,7 +2,7 @@
 - 👀 I’m having skills in Back-end Developer
 - 🌱 I’m currently looking for the oppurtunity to employ myself 
 - 💞️ I’m looking to collaborate on Open Source
-- 💬 Ask me about Java, Python, Backend Technologies
+- 💬 Ask me about Mobile App, Backend Technologies
 - 📫 How to reach me:- nischithpm23@gmail.com
 
 <!---
